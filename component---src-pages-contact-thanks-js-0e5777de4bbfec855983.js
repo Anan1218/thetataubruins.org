@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkuclathetatau=self.webpackChunkuclathetatau||[]).push([[561],{4288:function(e,t,a){a.r(t);var n=a(7294),c=a(3069);t.default=function(){return n.createElement(c.Z,null,n.createElement("section",{className:"section"},n.createElement("div",{className:"container"},n.createElement("div",{className:"content"},n.createElement("h1",null,"Thank you!"),n.createElement("p",null,"This is a custom thank you page for form submissions")))))}}}]);
+//# sourceMappingURL=component---src-pages-contact-thanks-js-0e5777de4bbfec855983.js.map
